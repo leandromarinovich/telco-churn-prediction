@@ -57,7 +57,7 @@ Basado en el análisis de importancia de variables del modelo, se propone el sig
 
 1.  Clonar el repositorio:
     ```bash
-    git clone https://github.com/leandromarinovich/proyecto-churn-telco.git
+    git clone https://github.com/leandromarinovich/telco-churn-prediction.git
     ```
 2.  Instalar dependencias:
     ```bash
